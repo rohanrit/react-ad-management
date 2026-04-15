@@ -1,0 +1,212 @@
+{
+  "counters": [
+    { "label": "Avg. ROAS lift", "value": 245, "suffix": "%" },
+    { "label": "Qualified leads", "value": 18000, "suffix": "+" },
+    { "label": "Client retention", "value": 96, "suffix": "%" }
+  ],
+  "basePlans": [
+    {
+      "name": "Launch",
+      "monthly": 2500,
+      "yearly": 24000,
+      "icon": "Rocket",
+      "accent": "from-[#4e85ff] via-[#8f56ff] to-[#ff6bb8]",
+      "features": ["2 channels managed", "Weekly optimization sprint", "Creative test matrix"]
+    },
+    {
+      "name": "Scale",
+      "monthly": 5900,
+      "yearly": 57600,
+      "icon": "Gauge",
+      "accent": "from-[#2569ea] via-[#ff6bb8] to-[#ffbc4d]",
+      "features": ["4+ channels managed", "Dedicated growth strategist", "CRO landing page iteration"]
+    },
+    {
+      "name": "Enterprise",
+      "monthly": null,
+      "yearly": null,
+      "icon": "Landmark",
+      "accent": "from-[#8f56ff] via-[#ff7e4f] to-[#ffd74d]",
+      "features": ["Global campaign architecture", "Attribution engineering", "Executive growth war-room"]
+    }
+  ],
+  "partnerLogos": ["Meta", "Google", "LinkedIn", "TikTok", "HubSpot", "Shopify", "Notion", "Stripe"],
+  "ctaPanels": [
+    {
+      "title": "For Agencies",
+      "text": "Scale multi-client campaigns with automated reporting, creative velocity, and tighter CAC control.",
+      "icon": "Handshake",
+      "gradient": "from-[#7b8dff] via-[#b56dff] to-[#ff9ec8]"
+    },
+    {
+      "title": "SMB Solutions",
+      "text": "Launch and optimize high-converting ad funnels without building an in-house media team.",
+      "icon": "Rocket",
+      "gradient": "from-[#5aa6ff] via-[#7fd3ff] to-[#b3e5ff]"
+    },
+    {
+      "title": "For Publishers",
+      "text": "Increase fill rates and improve inventory value using audience-led segmentation and demand sync.",
+      "icon": "Globe2",
+      "gradient": "from-[#ff9a56] via-[#ffc46d] to-[#ffe0a1]"
+    },
+    {
+      "title": "Unified Media Platform",
+      "text": "Bring paid media, creative intelligence, and attribution into one growth operating system.",
+      "icon": "BrainCircuit",
+      "gradient": "from-[#4f7fff] via-[#a45dff] to-[#ff8f6a]"
+    }
+  ],
+  "footerWidgets": [
+    { "title": "Company", "links": ["Who we are", "Our partners", "Careers", "Press kit"] },
+    { "title": "Solutions", "links": ["Performance media", "AI portfolio", "Funnel engineering", "Global scaling"] },
+    { "title": "Resources", "links": ["Case studies", "Pricing", "Growth blog", "Help center"] }
+  ],
+  "mediaPartnerCards": [
+    {
+      "label": "Streaming & CTV",
+      "title": "CTV & OTT Reach",
+      "description": "Activate premium streaming inventory with audience quality targeting and measurable view-through outcomes."
+    },
+    {
+      "label": "Retail Intelligence",
+      "title": "Retail Media Precision",
+      "description": "Connect product-level signals to creative messaging so every ad aligns with buyer intent and category demand."
+    },
+    {
+      "label": "Unified Reporting",
+      "title": "Cross-Channel Attribution",
+      "description": "Unify paid social, search, display, and video into one reporting lens that ties spend directly to revenue."
+    },
+    {
+      "label": "Creative Optimization",
+      "title": "AI Creative Intelligence",
+      "description": "Test multiple creative angles, rank winners faster, and scale only high-converting assets across channels."
+    },
+    {
+      "label": "Campaign Integrity",
+      "title": "Brand Safety & Trust",
+      "description": "Run campaigns in quality environments with fraud screening, transparent metrics, and compliance-first operations."
+    },
+    {
+      "label": "International Growth",
+      "title": "Global Audience Scale",
+      "description": "Expand into new regions with localization-ready media plans and pacing controls that protect profitability."
+    }
+  ],
+  "featureCards": [
+    {
+      "title": "Performance Media Buying",
+      "desc": "Search, social, and video campaigns tuned for lower CAC and higher conversion quality.",
+      "detail": "We continuously rebalance budget by audience intent, channel efficiency, and creative resonance so your spend compounds into profitable acquisition instead of short-lived spikes.",
+      "icon": "BarChart3",
+      "kind": "bars",
+      "metric": "CAC -31%",
+      "surface": "from-[#e8f1ff] via-white to-[#edf3ff]"
+    },
+    {
+      "title": "Creative Testing System",
+      "desc": "Fast concept iteration with AI plus human curation to scale winning creatives.",
+      "detail": "Every concept is scored against engagement signals and conversion outcomes, helping your team retire weak variants quickly and scale only creatives with proven revenue impact.",
+      "icon": "WandSparkles",
+      "kind": "rings",
+      "metric": "CTR +54%",
+      "surface": "from-[#f4ebff] via-white to-[#ffeef8]"
+    },
+    {
+      "title": "Funnel & CRO Engineering",
+      "desc": "Landing pages and lifecycle flows designed to convert intent into revenue.",
+      "detail": "From first click to final action, we remove conversion friction, tighten message match, and build page structures that guide prospects toward high-intent decisions with less drop-off.",
+      "icon": "Zap",
+      "kind": "funnel",
+      "metric": "CVR +42%",
+      "surface": "from-[#fff2e7] via-white to-[#ffe9d7]"
+    },
+    {
+      "title": "Attribution Intelligence",
+      "desc": "Unified dashboards connecting spend, lead quality, and closed-won value.",
+      "detail": "You get clear visibility across the full buyer journey, so teams can confidently double down on the channels and campaigns that actually move pipeline and revenue.",
+      "icon": "BrainCircuit",
+      "kind": "line",
+      "metric": "ROAS +245%",
+      "surface": "from-[#e8f8f8] via-white to-[#e9f1ff]"
+    }
+  ],
+  "industryCards": [
+    {
+      "title": "B2B SaaS",
+      "heading": "Pipeline acceleration framework",
+      "description": "Pipeline-focused campaigns for demo bookings, trial signups, and SQL acceleration across long sales cycles."
+    },
+    {
+      "title": "D2C Lifestyle",
+      "heading": "Creative commerce growth engine",
+      "description": "Creative-led customer acquisition balancing first-order conversion, repeat rate, and profitable scale."
+    },
+    {
+      "title": "Healthcare Tech",
+      "heading": "Trust-first acquisition model",
+      "description": "Trust-first messaging and compliant growth funnels designed for high-intent patient and provider journeys."
+    },
+    {
+      "title": "EdTech",
+      "heading": "Enrollment conversion system",
+      "description": "Enrollment-oriented funnel systems that improve lead quality while reducing cost per qualified learner."
+    },
+    {
+      "title": "Fintech",
+      "heading": "Precision compliance scaling",
+      "description": "High-precision targeting with conversion safeguards to improve activation, retention, and lifetime value."
+    },
+    {
+      "title": "Local Services",
+      "heading": "Geo-demand capture strategy",
+      "description": "Geo-smart campaign orchestration that drives local demand, phone calls, and booked appointments."
+    }
+  ],
+  "faqItems": [
+    {
+      "q": "How quickly can we launch our first campaign? ",
+      "a": "Most brands go live in 7-10 days after we lock targeting, messaging, and creative assets."
+    },
+    {
+      "q": "Do you handle creatives and landing pages too?",
+      "a": "Yes. We design AI-assisted concepts, ad variants, and conversion-focused landing pages in one pipeline."
+    },
+    {
+      "q": "Can your team scale campaigns internationally?",
+      "a": "Absolutely. We localize messaging, optimize by market, and run geo-based budget orchestration."
+    },
+    {
+      "q": "What does reporting look like?",
+      "a": "You get weekly action summaries, real-time dashboards, and monthly strategic growth reviews."
+    }
+  ],
+  "whoWeArePillars": [
+    { "title": "Strategy", "icon": "ShieldCheck" },
+    { "title": "Creativity", "icon": "PenTool" },
+    { "title": "Execution", "icon": "Rocket" }
+  ],
+  "portfolioItems": [
+    { "label": "UGC hooks", "icon": "Sparkles" },
+    { "label": "Motion statics", "icon": "Bot" },
+    { "label": "Short-form reels", "icon": "Rocket" },
+    { "label": "High-concept visuals", "icon": "PenTool" }
+  ],
+  "globalScaleFeatures": [
+    { "label": "24/7 campaign monitoring", "icon": "Gauge" },
+    { "label": "Multi-region media orchestration", "icon": "Globe2" },
+    { "label": "Localized creative adaptation", "icon": "PenTool" },
+    { "label": "Revenue-grade attribution layer", "icon": "DollarSign" }
+  ],
+  "subscribePoints": [
+    { "text": "Channel mix and budget calibration", "tone": "text-brand-500" },
+    { "text": "Creative angle recommendations", "tone": "text-fuchsia-500" },
+    { "text": "Landing page conversion opportunities", "tone": "text-orange-500" }
+  ],
+  "liveInsightItems": [
+    { "text": "Traffic quality index up 41%", "icon": "Gauge", "tone": "text-brand-500" },
+    { "text": "CTR improved across top 5 creatives", "icon": "Sparkles", "tone": "text-fuchsia-500" },
+    { "text": "CAC reduction sustained for 6 weeks", "icon": "DollarSign", "tone": "text-orange-500" }
+  ]
+}
